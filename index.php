@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
   
-    <title>Molbak - GGEZ</title>
+    <title>Ninja Game</title>
   
     <link rel="shortcut icon" href="/images/favicon.ico"/>
     <link rel="stylesheet" type="text/css" href="dist/css/bootstrap.min.css">
@@ -141,7 +141,6 @@
 		}
 
 		var movementSpeed = 180;
-
 		var score = 0;
 		var scoreText;
 
